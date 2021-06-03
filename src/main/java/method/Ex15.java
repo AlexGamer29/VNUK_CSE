@@ -25,20 +25,6 @@ public class Ex15 {
     return n;
   }
 
-  //  static boolean isWholeEvenNumber(int n) {
-  //    int separateNumber = n % 10;
-  //    n /= 10;
-  //    while (n > 0) {
-  //      if (separateNumber > n % 10) {
-  //        separateNumber = n % 10;
-  //      } else {
-  //        return false;
-  //      }
-  //      n /= 10;
-  //    }
-  //    return true;
-  //  }
-
   static boolean isWholeEvenNumber(int n) {
     int separateNumber;
     while (n > 0) {

@@ -26,8 +26,10 @@ public class Ex19 {
   }
 
   static boolean isSquareNumber(int n) {
-    double tmp = (int) Math.sqrt(n); // căn bậc hai của n
-    if (n == tmp * tmp) { // có thể dùng phương thức Math.floor
+    // căn bậc hai của n
+    double tmp = (int) Math.sqrt(n);
+    // có thể dùng phương thức Math.floor
+    if (n == tmp * tmp) {
       return true;
     }
     return false;
@@ -37,10 +39,12 @@ public class Ex19 {
 
     int n = checkCondition();
 
+    System.out.print("Tất cả các số chính phương nhỏ hơn " + n + " là ");
+    System.out.println();
     for (int i = 0; i < n; i++) {
-			if (isSquareNumber(i)) {
-        System.out.println("Tất cả các số chính phương nhỏ hơn " + n + " là " + i);
-			}
-		}
+      if (isSquareNumber(i)) {
+        System.out.print(i + "\t");
+      }
+    }
   }
 }

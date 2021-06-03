@@ -18,10 +18,10 @@ public class Ex17 {
     do {
       System.out.println("Nhập vào n: ");
       n = sc.nextInt();
-      if (n <= 0) {
-        System.out.println("\nVui lòng nhập n > 0");
+      if (n <= 100) {
+        System.out.println("\nVui lòng nhập n > 100");
       }
-    } while (n <= 0);
+    } while (n <= 100);
     return n;
   }
 
@@ -46,7 +46,7 @@ public class Ex17 {
     if (checkDecreasingLtoR(n)) {
       System.out.println(n + " là số giảm dần từ trái sang phải ");
     } else {
-      System.out.println(n + " không là giảm dần từ trái sang phải");
+      System.out.println(n + " không là số giảm dần từ trái sang phải");
     }
   }
 }

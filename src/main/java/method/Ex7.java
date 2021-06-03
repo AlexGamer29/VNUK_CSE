@@ -28,8 +28,10 @@ public class Ex7 {
   }
 
   static boolean isSquareNumber(int n) {
-    double tmp = (int) Math.sqrt(n); // căn bậc hai của n
-    if (n == tmp * tmp) { // có thể dùng phương thức Math.floor
+    // căn bậc hai của n
+    double tmp = (int) Math.sqrt(n); 
+    // có thể dùng phương thức Math.floor (tmp - Math.floor(tmp) == 0)
+    if (n == tmp*tmp) { 
       return true;
     }
     return false;
@@ -40,9 +42,9 @@ public class Ex7 {
     int n = checkCondition();
 
     if (isSquareNumber(n)) {
-      System.out.println(n + " is square number");
+      System.out.println(n + " là số chính phương");
     } else {
-      System.out.println(n + " is not square number");
+      System.out.println(n + " không là số chính phương");
     }
   }
 }

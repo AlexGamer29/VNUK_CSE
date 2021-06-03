@@ -42,9 +42,9 @@ public class Ex5 {
     int n = inputNum();
 
     if (isPerfectNumber(n)) {
-      System.out.println(n + " là " + " số hoàn hảo");
+      System.out.println(n + " là " + "số hoàn hảo");
     } else {
-      System.out.println(n + " không là " + " số hoàn hảo");
+      System.out.println(n + " không là " + "số hoàn hảo");
     }
   }
 }

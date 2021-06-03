@@ -26,7 +26,7 @@ public class Ex13 {
   }
 
   static long findMinNumberOfInterger(long n) {
-    long min = 0, separateNum;
+    long min = 9, separateNum;
     while (n > 0) {
       separateNum = n % 10;
       n /= 10;

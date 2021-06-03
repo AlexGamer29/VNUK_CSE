@@ -41,10 +41,12 @@ public class Ex18 {
   public static void main(String[] args) {
 		int n = inputNum();
 		
+		System.out.print("Tất cả các số nguyên tố nhỏ hơn " + n + " là ");
+		System.out.println();
 		for (int i = 0; i < n; i++) {
 			if(isPrimeNumber(i)) {
-				System.out.println("Tất cả các số nguyên tố nhỏ hơn " + n + " là " + i);
+				System.out.print(i + "\t");
 			}
-    }
+    	}
 	}
 }

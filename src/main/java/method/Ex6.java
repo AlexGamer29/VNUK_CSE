@@ -42,9 +42,9 @@ public class Ex6 {
 		int n = inputNum();
 		
 		if (isPrimeNumber(n)) {
-      System.out.println(n + " là " + " số nguyên tố");
+      System.out.println(n + " là " + "số nguyên tố");
     } else {
-      System.out.println(n + " không là " + " số nguyên tố");
+      System.out.println(n + " không là " + "số nguyên tố");
     }
 	}
 }

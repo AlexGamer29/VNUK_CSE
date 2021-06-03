@@ -20,28 +20,24 @@ public class Ex8 {
 			System.out.println("Nhập vào n: ");
 			n = sc.nextInt();
 			if (n <= 0) {
-        System.out.println("\nVui lòng nhập n > 0");
+				System.out.println("\nVui lòng nhập n > 0");
 			}
 		} while (n <= 0);
 		return n;
 	}
-	
+
 	static long countNumberOfInterger(long n) {
 		int count = 0;
-		for (int i = 0; i <= n; i++) {
-			n /= 10;
-			count++;
+		while (n > 0) {
+		n /= 10;
+		count++;
 		}
-//		while (n > 0) {
-//      n /= 10;
-//      count++;
-//    }
 		return count;
 	}
-  
+
 	public static void main(String[] args) {
 		int n = checkCondition();
 		long result = countNumberOfInterger(n);
-    System.out.println("Số lượng chữ số của số " + n + " là " + result);
+		System.out.println("Số lượng chữ số của số " + n + " là " + result);
 	}
 }

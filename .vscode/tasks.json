@@ -1,0 +1,41 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\Hi there\\Documents\\NetBeansProjects\\VNUK_CSEassembleVNUK_CSE",
+			"script": "assemble",
+			"description": "Assembles the outputs of this project.",
+			"group": "build",
+			"project": "VNUK_CSE",
+			"buildFile": "C:\\Users\\Hi there\\Documents\\NetBeansProjects\\VNUK_CSE\\build.gradle",
+			"rootProject": "VNUK_CSE",
+			"projectFolder": "c:\\Users\\Hi there\\Documents\\NetBeansProjects\\VNUK_CSE",
+			"workspaceFolder": "c:\\Users\\Hi there\\Documents\\NetBeansProjects\\VNUK_CSE",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: assemble"
+		},
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\Hi there\\Documents\\NetBeansProjects\\VNUK_CSErunVNUK_CSE",
+			"script": "run",
+			"description": "Runs this project as a JVM application",
+			"group": "application",
+			"project": "VNUK_CSE",
+			"buildFile": "C:\\Users\\Hi there\\Documents\\NetBeansProjects\\VNUK_CSE\\build.gradle",
+			"rootProject": "VNUK_CSE",
+			"projectFolder": "c:\\Users\\Hi there\\Documents\\NetBeansProjects\\VNUK_CSE",
+			"workspaceFolder": "c:\\Users\\Hi there\\Documents\\NetBeansProjects\\VNUK_CSE",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: run"
+		}
+	]
+}
