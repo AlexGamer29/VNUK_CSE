@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex38",
+            "request": "launch",
+            "mainClass": "array.Ex38",
+            "projectName": "VNUK_CSE"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex37",
+            "request": "launch",
+            "mainClass": "array.Ex37",
+            "projectName": "VNUK_CSE"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex30",
+            "request": "launch",
+            "mainClass": "array.Ex30",
+            "projectName": "VNUK_CSE"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex28",
+            "request": "launch",
+            "mainClass": "array.Ex28",
+            "projectName": "VNUK_CSE"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex27",
+            "request": "launch",
+            "mainClass": "array.Ex27",
+            "projectName": "VNUK_CSE"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex26",
+            "request": "launch",
+            "mainClass": "array.Ex26",
+            "projectName": "VNUK_CSE"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex25",
+            "request": "launch",
+            "mainClass": "array.Ex25",
+            "projectName": "VNUK_CSE"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex22",
             "request": "launch",
             "mainClass": "array.Ex22",

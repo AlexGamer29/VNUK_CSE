@@ -2,6 +2,8 @@ array/ArrayDemo2D_Method.java
  array.ArrayDemo2D_Method
 loop/Ex4.java
  loop.Ex4
+array/Ex28.java
+ array.Ex28
 input_output/Ex9.java
  input_output.Ex9
 Nguyen_Huu_Minh_Duc/Ex2.java
@@ -13,10 +15,14 @@ if_else/SwitchDemo.java
  if_else.SwitchDemo
 Overall_1/Ex27.java
  Overall_1.Ex27
+array/Ex30.java
+ array.Ex30
 method/Ex19.java
  method.Ex19
 Overall_1/Ex13.java
  Overall_1.Ex13
+array/Ex14.java
+ array.Ex14
 Nguyen_Huu_Minh_Duc/Ex3.java
  Nguyen_Huu_Minh_Duc.Ex3
 Overall_1/Ex14.java
@@ -37,20 +43,22 @@ input_output/Ex10.java
  input_output.Ex10
 wrapper/StringDemo.java
  wrapper.StringDemo
+array/Ex15.java
+ array.Ex15
 array/ArrayDemo2D.java
  array.ArrayDemo2D
-array/Ex5.java
- array.Ex5
+array/Ex31.java
+ array.Ex31
 Overall_1/Ex8.java
  Overall_1.Ex8
-Overall_1/Ex7.java
- Overall_1.Ex7
+array/Ex12.java
+ array.Ex12
 Nguyen_Huu_Minh_Duc/Ex1.java
  Nguyen_Huu_Minh_Duc.Ex1
 Overall_1/Ex5.java
  Overall_1.Ex5
-input_output/Ex5.java
- input_output.Ex5
+array/Ex1.java
+ array.Ex1
 if_else/Ex4.java
  if_else.Ex4
 if_else/Ex7.java
@@ -87,26 +95,28 @@ method/Ex16.java
  method.Ex16
 if_else/Ex2.java
  if_else.Ex2
-array/Ex4.java
- array.Ex4
-input_output/Ex2.java
- input_output.Ex2
+array/Ex33.java
+ array.Ex33
+array/Ex9.java
+ array.Ex9
 array/ArrayDemo1D.java
  array.ArrayDemo1D
+array/Ex17.java
+ array.Ex17
 Overall_1/Ex10.java
  Overall_1.Ex10
-input_output/Ex8.java
- input_output.Ex8
-Stuff/TimUoc.java
- Stuff.TimUoc
+array/Ex11.java
+ array.Ex11
+array/Ex3.java
+ array.Ex3
 loop/Ex7.java
  loop.Ex7
 Overall_1/Ex16.java
  Overall_1.Ex16
 input_output/Ex6.java
  input_output.Ex6
-array/Ex7.java
- array.Ex7
+array/Ex34.java
+ array.Ex34
 exception/ExceptionDemo.java
  exception.ExceptionDemo
 method/MethodDemo.java
@@ -117,44 +127,58 @@ input_output/Ex13.java
  input_output.Ex13
 input_output/Ex7.java
  input_output.Ex7
-array/Ex8.java
- array.Ex8
+array/Ex4.java
+ array.Ex4
 input_output/inputDemo.java
  input_output.inputDemo
 switch_case/Ex2.java
  switch_case.Ex2
+array/Ex18.java
+ array.Ex18
 if_else/Ex10.java
  if_else.Ex10
 method/Ex7.java
  method.Ex7
 if_else/IfElseDemo.java
  if_else.IfElseDemo
+array/Ex27.java
+ array.Ex27
 method/Ex4.java
  method.Ex4
 Overall_1/Ex38.java
  Overall_1.Ex38
+array/Ex21.java
+ array.Ex21
 if_else/Ex5.java
  if_else.Ex5
 MidtermTryOut/Ex2.java
  MidtermTryOut.Ex2
 switch_case/Ex4.java
  switch_case.Ex4
+array/Ex22.java
+ array.Ex22
 input_output/Ex3.java
  input_output.Ex3
+array/Ex36.java
+ array.Ex36
 Overall_1/Ex1.java
  Overall_1.Ex1
 method/Ex6.java
  method.Ex6
 Overall_1/Ex19.java
  Overall_1.Ex19
-Overall_1/Ex4.java
- Overall_1.Ex4
+array/Ex6.java
+ array.Ex6
+array/Ex19.java
+ array.Ex19
 Overall_1/Ex21.java
  Overall_1.Ex21
 method/Ex5.java
  method.Ex5
 switch_case/Ex5.java
  switch_case.Ex5
+array/Ex37.java
+ array.Ex37
 input_output/Ex4.java
  input_output.Ex4
 Overall_1/Ex2.java
@@ -165,8 +189,8 @@ method/Ex13.java
  method.Ex13
 MidtermTryOut/Ex1.java
  MidtermTryOut.Ex1
-array/ArrayDemo1D_Methodv2.java
- array.ArrayDemo1D_Methodv2
+array/Ex7.java
+ array.Ex7
 Overall_1/Ex23.java
  Overall_1.Ex23
 Overall_1/Ex20.java
@@ -201,6 +225,8 @@ Stuff/PhepTinhHaiSo.java
  Stuff.PhepTinhHaiSo
 method/Ex3.java
  method.Ex3
+array/Ex25.java
+ array.Ex25
 method/Ex9.java
  method.Ex9
 input_output/Ex12.java
@@ -209,10 +235,14 @@ if_else/Ex3.java
  if_else.Ex3
 Overall_1/Ex11.java
  Overall_1.Ex11
+array/Ex20.java
+ array.Ex20
 method/Ex2.java
  method.Ex2
 Stuff/Pitest3.java
  Stuff.Pitest3
+array/Ex26.java
+ array.Ex26
 loop/Ex6.java
  loop.Ex6
 method/Ex8.java
@@ -221,8 +251,8 @@ Overall_1/Ex17.java
  Overall_1.Ex17
 if_else/Ex11.java
  if_else.Ex11
-array/Ex10.java
- array.Ex10
+array/Ex32.java
+ array.Ex32
 method/Ex14.java
  method.Ex14
 method/Ex11.java
@@ -231,43 +261,31 @@ method/Ex17.java
  method.Ex17
 switch_case/Ex3.java
  switch_case.Ex3
-array/Ex12.java
- array.Ex12
-array/Ex9.java
- array.Ex9
-array/Ex1.java
- array.Ex1
-array/Ex6.java
- array.Ex6
-array/Ex11.java
- array.Ex11
-array/Ex3.java
- array.Ex3
-array/Ex2.java
- array.Ex2
-array/Ex13.java
- array.Ex13
-array/Ex34.java
- array.Ex34
-array/Ex16.java
- array.Ex16
-array/Ex32.java
- array.Ex32
-array/Ex36.java
- array.Ex36
-array/Ex33.java
- array.Ex33
-array/Ex17.java
- array.Ex17
-array/Ex15.java
- array.Ex15
-array/Ex18.java
- array.Ex18
-array/Ex19.java
- array.Ex19
-array/Ex14.java
- array.Ex14
-array/Ex31.java
- array.Ex31
 array/Ex35.java
  array.Ex35
+array/Ex13.java
+ array.Ex13
+array/Ex5.java
+ array.Ex5
+array/Ex16.java
+ array.Ex16
+array/Ex2.java
+ array.Ex2
+array/Ex8.java
+ array.Ex8
+input_output/Ex5.java
+ input_output.Ex5
+array/ArrayDemo1D_Methodv2.java
+ array.ArrayDemo1D_Methodv2
+Stuff/TimUoc.java
+ Stuff.TimUoc
+input_output/Ex8.java
+ input_output.Ex8
+Overall_1/Ex4.java
+ Overall_1.Ex4
+array/Ex10.java
+ array.Ex10
+input_output/Ex2.java
+ input_output.Ex2
+Overall_1/Ex7.java
+ Overall_1.Ex7
